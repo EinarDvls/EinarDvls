@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I´m Einar 💻🖥🖱💾 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
 <!--
 **EinarDvls/EinarDvls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
