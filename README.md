@@ -3,7 +3,7 @@
 ### Hi, I´m Einar 💻🖥🖱💾 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Mexico</h3>
+<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Guadalajara, Jalisco</h3>
 
 - 🔭 I’m currently working on my **Python Course**
 
