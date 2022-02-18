@@ -15,17 +15,16 @@
 
 - ⚡ What I like to do: **I really like mystery, documentaries, reading, taking pictures and animals**
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
+## ⚡️ Let's talk more:
 
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/einar_dvls/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaly.fd@gmail.com)
-  
-</div>
+<p align="left"> 
+    <a href="kaly.fd@gmail.com" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="express" width="42" height="42"/ > </a>
+    <a href="https://wa.me/3337498089" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/733/733585.png" alt="express" width="37" height="36"/ > </a>  
+</p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
-<p align="center"> 
+<p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
