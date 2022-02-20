@@ -19,7 +19,7 @@
 
 <p align="left"> 
     <a href="kaly.fd@gmail.com" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="express" width="42" height="42"/ > </a>
-    <a href="https://wa.me/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/733/733585.png" alt="express" width="37" height="36"/ > </a>  
+    <a href="https://wa.me3337498089/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/733/733585.png" alt="express" width="37" height="36"/ > </a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
