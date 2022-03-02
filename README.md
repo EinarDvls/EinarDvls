@@ -18,7 +18,6 @@
 ## ⚡️ Let's talk more:
 
 <p align="left"> 
-    <a href="kaly.fd@gmail.com" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="express" width="42" height="42"/ > </a>
     <a href="https://wa.me/3337498089/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/733/733585.png" alt="express" width="37" height="36"/ > </a>  
 </p>
 
