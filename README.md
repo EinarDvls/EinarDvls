@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my **Python Course**
 
-- 🌱 I’m currently learning **Python, html, Css, JavaScript **
+- 🌱 I’m currently learning **Python, html, Css, JavaScript**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
