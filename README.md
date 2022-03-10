@@ -1,3 +1,5 @@
+![snake](https://user-images.githubusercontent.com/99060661/157566611-8fa17ab7-0623-4499-972d-4ae27e7bcaca.gif)
+
 ### Hi, I´m Einar 💻🖥🖱💾 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
